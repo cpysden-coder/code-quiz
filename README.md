@@ -1,5 +1,12 @@
 # code-quiz
 
+This is code quiz game built in html, css and javascript. Subsequent versions will improve upon:
+- code simplification
+- better separation of concerns between functions
+- styling
+- getting the clearInterval to work better 
+- and several other topics
+
 Acceptance:
 GIVEN I am taking a code quiz
 WHEN I click the start button
@@ -13,7 +20,8 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 
-Psedo Code:
+Psedo Code: How I approached the challenge
+User Inputs:
 User input - startButton
 User input - clickChoice for answer
 User input - enter initials after game
@@ -42,6 +50,16 @@ variables:
 - losses
 - initials
 - highscore
+
+order to build:
+- html with basic divs
+- start button
+- timer
+- render first question to the screen
+- capture user selection
+- save answer during game
+- win and lose functions
+- save to local storage
 
 
 
