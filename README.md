@@ -1,4 +1,9 @@
 # code-quiz
+check it out: https://cpysden-coder.github.io/code-quiz/
+
+what to expect: 
+<img width="1084" alt="Screen Shot 2021-09-28 at 6 40 57 PM" src="https://user-images.githubusercontent.com/65201372/135188661-2faa3fa3-7078-4625-8ac0-7beaae9f475e.png">
+
 
 This is code quiz game built in html, css and javascript. Subsequent versions will improve upon:
 - code simplification
